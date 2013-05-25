@@ -77,7 +77,7 @@ None so far.
 
 =head1 COPYRIGHT
 
-Copyright (c) 2013 the MooX::InsideOut L</AUTHOR> and L</CONTRIBUTORS>
+Copyright (c) 2013 the Types::Classes L</AUTHOR> and L</CONTRIBUTORS>
 as listed above.
 
 =head1 LICENSE
